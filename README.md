@@ -65,4 +65,9 @@ DeepSeek, a Chinese AI company founded in 2023 in Hangzhou, Zhejiang, has gained
 
 # 3. Model Downloads
 
-There are a range of ways to use models locally, and the choice here was to use the platform from [Ollama](https://ollama.com/), an interesting and simple solution for running models locally. The download process is very straightforward. Here is an interesting [article on Medium](https://medium.com/@amorimandre2012/rodando-modelos-de-llm-localmente-uma-maneira-de-criar-produtos-e-servi%C3%A7os-inteligentes-919cb4569145) that can help implement this type of model.
+There are a range of ways to use models locally, and the choice here was to use the platform from [Ollama](https://ollama.com/), an interesting and simple solution for running models locally. 
+
+![image](https://github.com/user-attachments/assets/0ae62ff5-fbeb-4938-9bfa-a02b5d789f89)
+
+
+The download process is very straightforward. Here is an interesting [article on Medium](https://medium.com/@amorimandre2012/rodando-modelos-de-llm-localmente-uma-maneira-de-criar-produtos-e-servi%C3%A7os-inteligentes-919cb4569145) that can help implement this type of model.
