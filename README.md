@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
+  <a href="[DeepSeek_V3.pdf](https://arxiv.org/pdf/2501.12948)"><b>Paper Link</b>👁️</a>
 </p>
 
 
