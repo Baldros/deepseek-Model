@@ -60,17 +60,17 @@ Throughout the entire training process, we did not experience any irrecoverable 
 </p>
 
 ## 2. About the model:
----
+
 Fundada em 2023, a DeepSeek é uma empresa chinesa de inteligência artificial localizada em Hangzhou, Zhejiang, com o objetivo de democratizar o acesso global à inteligência artificial geral (AGI). A empresa se destacou ao lançar o modelo DeepSeek-R1, considerado uma inovação disruptiva na área de modelos de linguagem de grande escala (LLMs).
----
+
 O DeepSeek-R1 se diferencia por suas capacidades avançadas de raciocínio em matemática e programação, equiparando-se a modelos renomados como ChatGPT da OpenAI, mas com um custo de desenvolvimento significativamente reduzido. Essa eficiência foi alcançada através da técnica "mixture of experts" (mistura de especialistas), que ativa apenas os recursos necessários para cada tarefa específica. Essa abordagem reduz drasticamente o consumo de energia e os custos operacionais, desafiando os padrões tradicionais da indústria.
----
+
 Outro aspecto inovador é a postura de código aberto adotada pela DeepSeek. Ao disponibilizar seus modelos, algoritmos e detalhes de treinamento, a empresa promove transparência e colaboração global, permitindo que pesquisadores e desenvolvedores personalizem e aprimorem a tecnologia. Contudo, essa abertura também gera preocupações sobre segurança e a crescente dependência de tecnologias desenvolvidas na China.
----
+
 O impacto da DeepSeek-R1 foi sentido em todo o setor de inteligência artificial, forçando grandes empresas a repensarem suas estratégias. Com resultados comparáveis a sistemas avançados e custo mais baixo, a empresa apresenta um modelo de eficiência que pode redefinir o futuro da IA.
----
+
 Em resumo, a DeepSeek está emergindo como uma força significativa na indústria de inteligência artificial, combinando inovação técnica, acessibilidade e eficiência em uma abordagem que pode transformar a forma como a IA é desenvolvida e utilizada globalmente.
----
+
 ## 3. Model Downloads
 
 <div align="center">
